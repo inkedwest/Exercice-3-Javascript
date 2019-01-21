@@ -1,5 +1,3 @@
-var lastName = 'Doe';
-var firstName = 'John';
-var city = 'New York';
-alert("Nom : " + lastName + "\nPrénom : " +firstName +"\nVille : " +city)
-"Hello there " + name + ". Welcome."
+var prenom = 'Doe';
+alert("Prénom : " + prenom)
+"Bonjour " + prenom + ". Welcome."
