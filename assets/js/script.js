@@ -1,3 +1,2 @@
-var prenom = 'Doe';
-alert("Prénom : " + prenom)
-"Bonjour " + prenom + ". Welcome."
+var firstname = prompt('Entrez votre prénom:');
+alert('Bonjour ' + firstname);
